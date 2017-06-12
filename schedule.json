@@ -1,14 +1,61 @@
 {
   "episodes": [
     {
-      "season": 5,
-      "episode": 115,
-      "air_date": "June 9, 2017",
+      "season": 1,
+      "episode": 144,
+      "air_date": "June 6, 2017",
       "songs": [
         {
-          "title": "Take it All Back",
-          "artist": "Judah & the Lion",
-          "link": "https://google.com"
+          "title": "Kill Jill",
+          "artist": "Big Boi Ft. Killer Mike, Jeezy",
+          "link": "https://www.youtube.com/watch?v=VDLDVPV8kDE"
+        },
+        {
+          "title": "American Dream",
+          "artist": "LCD Soundsystem",
+          "link": "https://www.youtube.com/watch?v=ML1MUKOJIIo"
+        },
+        {
+          "title": "Bad Liar",
+          "artist": "Selena Gomez",
+          "link": "https://www.youtube.com/watch?v=YVtzQms7lps"
+        },
+        {
+          "title": "Laminated Cat",
+          "artist": "Jeff Tweedy",
+          "link": "https://www.youtube.com/watch?v=JzemJAWaPSo"
+        }
+      ]
+    },
+    {
+      "season": 1,
+      "episode": 140,
+      "air_date": "May 30, 2017",
+      "songs": [
+        {
+          "title": "Squatting In Heaven",
+          "artist": "Black Lips",
+          "link": "https://www.youtube.com/watch?v=80X_mjcoqhA"
+        },
+        {
+          "title": "Long Time",
+          "artist": "Blondie",
+          "link": "https://www.youtube.com/watch?v=gaL-G9zVxzk"
+        },
+        {
+          "title": "I'm the One",
+          "artist": "DJ Khaled Ft. Justin Beiber, Quavo, Chance the Rapper, Lil Wayne",
+          "link": "https://www.youtube.com/watch?v=weeI1G46q0o"
+        },
+        {
+          "title": "Drummer Boy",
+          "artist": "Misterwives",
+          "link": "https://www.youtube.com/watch?v=4ObiJPH2Tvs"
+        },
+        {
+          "title": "Good Goodbye",
+          "artist": "Linkin Park Ft. Pusha T, Stormzy",
+          "link": "https://www.youtube.com/watch?v=phVQZrb2AdA"
         }
       ]
     }
