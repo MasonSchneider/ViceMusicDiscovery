@@ -1,0 +1,31 @@
+{
+  "name": "vicemusic",
+  "version": "1.0.0",
+  "description": "Website to discover music from Vice",
+  "main": "main.js",
+  "scripts": {
+    "serve": "http-server -a localhost -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://masondschneider@gitlab.com/masondschneider/ViceMusicDiscovery.git"
+  },
+  "keywords": [
+    "vice",
+    "music",
+    "discovery",
+    "tonight",
+    "news",
+    "corner"
+  ],
+  "author": "Mason Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/masondschneider/ViceMusicDiscovery/issues"
+  },
+  "homepage": "https://gitlab.com/masondschneider/ViceMusicDiscovery#README",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
