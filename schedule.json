@@ -58,6 +58,33 @@
           "link": "https://www.youtube.com/watch?v=phVQZrb2AdA"
         }
       ]
+    },
+    {
+      "season": 1,
+      "episode": 137,
+      "air_date": "May 23, 2017",
+      "songs": [
+        {
+          "title": "Hard Times",
+          "artist": "Paramore",
+          "link": "https://www.youtube.com/watch?v=AEB6ibtdPZc"
+        },
+        {
+          "title": "All the Best",
+          "artist": "Zac Brown Band",
+          "link": "https://www.youtube.com/watch?v=bH5MvcKORWk"
+        },
+        {
+          "title": "Most Girls",
+          "artist": "Hailee Steinfeld",
+          "link": "https://www.youtube.com/watch?v=qBB_QOZNEdc"
+        },
+        {
+          "title": "Bonnie",
+          "artist": "Young M.A",
+          "link": "https://www.youtube.com/watch?v=5Ysd758hIHs"
+        }
+      ]
     }
   ]
 }
